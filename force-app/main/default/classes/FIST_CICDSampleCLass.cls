@@ -3,6 +3,6 @@
  */
 public class FIST_CICDSampleCLass {
     public FIST_CICDSampleCLass() {
-        //add some logic
+        //remove comments
     }
 }
