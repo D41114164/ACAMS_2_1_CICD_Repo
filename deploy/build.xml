@@ -34,7 +34,7 @@
 		<sf:retrieve 
 			username="${sf2.username}"
 			password="${sf2.password}" 
-			serverurl="${sf2.serverurl}"
+			serverurl="${sf.serverurl}"
 			retrieveTarget="../force-app/main/default"
 			unpackaged="../manifest/package.xml"
 			/> 
